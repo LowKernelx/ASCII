@@ -5,7 +5,7 @@ int main() {
 char c;
 
 cout << "=====================================" << endl;    
-cout << "== Project 0xA3Z ACII VALUE" << endl;
+cout << "== ASCII value" << endl;
 cout << "=====================================" << endl;    
 cout << "input value: ";
 cin >> c;
